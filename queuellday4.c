@@ -20,7 +20,7 @@ main()
 	struct queue *Q=createqueue();	
 	while(1)
 	{
-		printf("\nEnter Choice :\n0.Exit \n1.Insert \n2.Delete \n3.Front & Rear \n4.Display \n5.Delete Stack");
+		printf("\nEnter Choice :\n0.Exit \n1.Insert \n2.Delete \n3.Front & Rear \n4.Display \n5.Delete Queue");
 		scanf("%d",&ch);
 		switch(ch)
 		{
